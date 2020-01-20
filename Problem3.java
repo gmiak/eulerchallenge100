@@ -1,4 +1,4 @@
-// Autor @mr.gmiak.dv
+// Author @mr.gmiak.dv
 public class Problem3 {
     public static void main(String[] args) {
         long n = 6008514751L;

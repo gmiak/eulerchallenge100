@@ -1,4 +1,4 @@
-// Autor @mr.gmiak.dv
+// Author @mr.gmiak.dv
 public class Problem6 {
     public static void main(String[] args) {
         int x = 100;
