@@ -1,3 +1,4 @@
+// Autor @mr.gmiak.dv
 public class Problem2 {
     public static void main(String[] args) {
         System.out.println("The sum of the even-valued of n(th)term (n=43) = "+fiboEvenSum(43)+".");

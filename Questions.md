@@ -23,3 +23,21 @@ Problem 4: Largest palindrome product
 A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
 
 Find the largest palindrome made from the product of two n-digit numbers.
+
+Problem 5: Smallest multiple
+======
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to n?
+
+Problem 6: Sum square difference
+====
+The sum of the squares of the first ten natural numbers is,
+
+12 + 22 + ... + 102 = 385
+The square of the sum of the first ten natural numbers is,
+
+(1 + 2 + ... + 10)^2 = 552 = 3025
+Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 3025 − 385 = 2640.
+
+Find the difference between the sum of the squares of the first n natural numbers and the square of the sum.
