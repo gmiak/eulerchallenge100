@@ -1,5 +1,4 @@
-import java.util.Scanner;
-
+// Author @mr.gmiak.dv
 public class Problem9 {
     public static void main(String[] args) {
         int x=1000;

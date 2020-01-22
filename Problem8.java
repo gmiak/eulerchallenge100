@@ -1,3 +1,4 @@
+// Author @mr.gmiak.dv
 public class Problem8 {
     public static void main(String[] args) {
         int x = 4;
