@@ -3,7 +3,6 @@ public class Problem9 {
     public static void main(String[] args) {
         int x=1000;
         System.out.println("Product abc such that a+b+c = "+x+" is: "+specialPythagoreanTriplet(x));
-
     }
     public static int specialPythagoreanTriplet(int n){
         int specialPythaTriplet=0;
