@@ -127,3 +127,18 @@ Starting in the top left corner of a 2×2 grid, and only being able to move to t
 
 How many such routes are there through a given gridSize?
 
+Problem 16: Power digit sum
+====
+2^15 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
+
+What is the sum of the digits of the number 2^exponent?
+
+Problem 17: Number letter counts
+===
+
+
+If the numbers 1 to 5 are written out in words: one, two, three, four, five, then there are 3 + 3 + 5 + 4 + 4 = 19 letters used in total.
+
+If all the numbers from 1 to given limit inclusive were written out in words, how many letters would be used?
+
+Note: Do not count spaces or hyphens. For example, 342 (three hundred and forty-two) contains 23 letters and 115 (one hundred and fifteen) contains 20 letters. The use of "and" when writing out numbers is in compliance with British usage.

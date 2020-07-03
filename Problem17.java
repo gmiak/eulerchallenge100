@@ -2,7 +2,7 @@
 public class Problem17 {
     public static void main(String[] args) {
         int limit = 1000;
-        System.out.println("If all the numbers from 1 to "+limit+" inclusive were written out in words, how many letters would be used? "+numberLetterCounts(limit));
+        System.out.println("If all the numbers from 1 to "+limit+" were written out in words, "+numberLetterCounts(limit)+" letters would be used.");
     }
 
 
